@@ -1,0 +1,59 @@
+@InProceedings{gruntkowska2023ef21p,
+  title = 	 {{EF21-P} and Friends: Improved Theoretical Communication Complexity for Distributed Optimization with Bidirectional Compression},
+  author =       {Gruntkowska, Kaja and Tyurin, Alexander and Richt\'{a}rik, Peter},
+  booktitle = 	 {Proceedings of the 40th International Conference on Machine Learning},
+  pages = 	 {11761--11807},
+  year = 	 {2023},
+  editor = 	 {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
+  volume = 	 {202},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {23--29 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v202/gruntkowska23a/gruntkowska23a.pdf},
+  url = 	 {https://proceedings.mlr.press/v202/gruntkowska23a.html},
+  abstract = 	 {In this work we focus our attention on distributed optimization problems in the context where the communication time between the server and the workers is non-negligible. We obtain novel methods supporting bidirectional compression (both from the server to the workers and vice versa) that enjoy new state-of-the-art theoretical communication complexity for convex and nonconvex problems. Our bounds are the first that manage to decouple the variance/error coming from the workers-to-server and server-to-workers compression, transforming a multiplicative dependence to an additive one. Moreover, in the convex regime, we obtain the first bounds that match the theoretical communication complexity of gradient descent. Even in this convex regime, our algorithms work with biased gradient estimators, which is non-standard and requires new proof techniques that may be of independent interest. Finally, our theoretical results are corroborated through suitable experiments.}
+}
+
+@InProceedings{rammal2024communication,
+  title = 	 {Communication Compression for {B}yzantine Robust Learning: New Efficient Algorithms and Improved Rates},
+  author =       {Rammal, Ahmad and Gruntkowska, Kaja and Fedin, Nikita and Gorbunov, Eduard and Richtarik, Peter},
+  booktitle = 	 {Proceedings of The 27th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {1207--1215},
+  year = 	 {2024},
+  editor = 	 {Dasgupta, Sanjoy and Mandt, Stephan and Li, Yingzhen},
+  volume = 	 {238},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {02--04 May},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v238/rammal24a/rammal24a.pdf},
+  url = 	 {https://proceedings.mlr.press/v238/rammal24a.html},
+  abstract = 	 {Byzantine robustness is an essential feature of algorithms for certain distributed optimization problems, typically encountered in collaborative/federated learning. These problems are usually huge-scale, implying that communication compression is also imperative for their resolution. These factors have spurred recent algorithmic and theoretical developments in the literature of Byzantine-robust learning with compression. In this paper, we contribute to this research area in two main directions. First, we propose a new Byzantine-robust method with compression – Byz-DASHA-PAGE – and prove that the new method has better convergence rate (for non-convex and Polyak-Lojasiewicz smooth optimization problems), smaller neighborhood size in the heterogeneous case, and tolerates more Byzantine workers under over-parametrization than the previous method with SOTA theoretical convergence guarantees (Byz-VR-MARINA). Secondly, we develop the first Byzantine-robust method with communication compression and error feedback – Byz-EF21 – along with its bi-directional compression version – Byz-EF21-BC – and derive the convergence rates for these methods for non-convex and Polyak-Lojasiewicz smooth case. We test the proposed methods and illustrate our theoretical findings in the numerical experiments.}
+}
+
+@article{gruntkowska2024improving,
+  title={Improving the worst-case bidirectional communication complexity for nonconvex distributed optimization under function similarity},
+  author={Gruntkowska, Kaja and Tyurin, Alexander and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2402.06412},
+  year={2024}
+}
+
+@article{tyurin2024freya,
+  title={Freya page: First optimal time complexity for large-scale nonconvex finite-sum optimization with heterogeneous asynchronous computations},
+  author={Tyurin, Alexander and Gruntkowska, Kaja and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2405.15545},
+  year={2024}
+}
+
+@article{anyszka2024tighter,
+  title={Tighter performance theory of FedExProx},
+  author={Anyszka, Wojciech and Gruntkowska, Kaja and Tyurin, Alexander and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2410.15368},
+  year={2024}
+}
+
+@article{gruntkowska2025ball,
+  title={The Ball-Proximal (=" Broximal") Point Method: a New Algorithm, Convergence Theory, and Applications},
+  author={Gruntkowska, Kaja and Li, Hanmin and Rane, Aadi and Richt{\'a}rik, Peter},
+  journal={arXiv preprint arXiv:2502.02002},
+  year={2025}
+}
