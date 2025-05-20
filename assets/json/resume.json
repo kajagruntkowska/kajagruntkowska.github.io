@@ -1,0 +1,207 @@
+{
+  "basics": {
+    "name": "Kaja Gruntkowska",
+    "image": "",
+    "email": "kaja.gruntkowska@kaust.edu.sa",
+    "phone": "",
+    "url": "",
+    "research interests": "Optimization for Machine Learning, Parallel and Distributed Computing, Federated Learning",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kaja-gruntkowska",
+        "url": "https://www.linkedin.com/in/kaja-gruntkowska/"
+      }
+    ],
+    "location": {
+      "address": "Building 12, 4700 KAUST",
+      "postalCode": "23955-6900",
+      "city": "Thuwal",
+      "countryCode": "KSA",
+      "region": "Makkah"
+    }
+  },
+  "education": [
+    {
+      "institution": "King Abdullah University of Science and Technology (KAUST)",
+      "location": "Thuwal, Saudi Arabia",
+      "url": "https://www.kaust.edu.sa/en/news/kaust-center-of-excellence-for-generative-ai",
+      "area": "",
+      "summary": "Specialization: Machine Learning and Optimization. Supervisor: Prof. Peter Richtárik.",
+      "studyType": "PhD in Statistics | specialization: Machine Learning and Optimization",
+      "startDate": "2024-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["<b> Supervisor: </b> Peter Richtárik"]
+    },
+    {
+      "institution": "University of Oxford",
+      "location": "Oxford, UK",
+      "url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-statistical-science",
+      "studyType": "MSc in Statistical Science",
+      "startDate": "2022-10",
+      "endDate": "2023-09",
+      "score": "",
+      "courses": ["<b> Distinction </b>", "<b>Dissertation: </b> Byzantine-Robust and Communication-Efficient Distributed Learning", "<b> Supervisors: </b> Prof. Patrick Rebeschini, Prof. Yee Whye Teh, Prof. Peter Richtárik"],
+      "summary": ""
+    },
+    {
+      "institution": "University of Warwick",
+      "location": "Coventry, UK",
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-mathematics-statistics/",
+      "studyType": "BSc in Mathematics and Statistics",
+      "startDate": "2019-10",
+      "endDate": "2022-07",
+      "score": "",
+      "courses": ["<b> First Class Honours </b>", "Ranked 2nd in the Statistics cohort"],
+      "summary": "Ranked 2nd in the Statistics cohort"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nomination for 2025 Google PhD Fellowship",
+      "date": "2025-05",
+      "awarder": "KAUST",
+      "summary": "Selected universities may nominate up to 3 students annually"
+    },
+    {
+      "title": "Al-Kindi Research Award",
+      "date": "2024-12",
+      "awarder": "KAUST",
+      "summary": "Awarded to top 3 students in the Statistics department for exceptional research impact"
+    },
+    {
+      "title": "Nomination for 2025 Apple Scholars in AIML",
+      "date": "2024-09",
+      "awarder": "KAUST",
+      "summary": "Selected universities may nominate up to 3 students annually"
+    },
+    {
+      "title": "Dean's List Award",
+      "date": "2024-06",
+      "awarder": "KAUST",
+      "summary": "Awarded to top PhD students in the Computer, Electrical and Mathematical Science and Engineering (CEMSE) division for exceptional academic achievements"
+    },
+    {
+      "title": "Dean's Award",
+      "date": "2024-01",
+      "awarder": "KAUST",
+      "summary": "Awarded to top incoming students"
+    },
+    {
+      "title": "Worcester College Prize",
+      "date": "2023-09",
+      "awarder": "University of Oxford",
+      "summary": "Awarded for excellent performance in final examinations"
+    },
+    {
+      "title": "Outstanding Overall Performance Prize",
+      "date": "2022-09",
+      "awarder": "University of Warwick",
+      "summary": "Awarded to top 2 students in the Statistics department"
+    },
+    {
+      "title": "Academic Excellence Prize",
+      "date": "2022-09",
+      "awarder": "University of Warwick",
+      "summary": "Awarded to top 3 students in the Statistics department"
+    }
+  ],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Gluon: Making Muon & Scion Great Again! (Bridging Theory and Practice of LMO-based Optimizers for LLMs)",
+      "publisher": "",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2505.13416",
+      "authors": ["Artem Riabinin", "Egor Shulgin", "Kaja Gruntkowska", "Peter Richtárik"]
+    },
+    {
+      "name": "The Ball-Proximal (=`Broximal'') Point Method: a New Algorithm, Convergence Theory, and Applications",
+      "publisher": "",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2502.02002",
+      "authors": ["Kaja Gruntkowska", "Hanmin Li", "Peter Richtárik"]
+    },
+    {
+      "name": "Tighter Performance Theory of FedExProx",
+      "publisher": "",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2410.15368v1",
+      "authors": ["Wojciech Anyszka", "Kaja Gruntkowska", "Alexander Tyurin", "Peter Richtárik"]
+    },
+    {
+      "name": "Improving the Worst-Case Bidirectional Communication Complexity for Nonconvex Distributed Optimization under Function Similarity",
+      "publisher": "Spotlight @ NeurIPS 2024",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2402.06412",
+      "authors": ["Kaja Gruntkowska", "Alexander Tyurin", "Peter Richtárik"]
+    },
+    {
+      "name": "Freya PAGE: First Optimal Time Complexity for Large-Scale Nonconvex Finite-Sum Optimization with Heterogeneous Asynchronous Computations",
+      "publisher": "NeurIPS 2024",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2405.15545",
+      "authors": ["Alexander Tyurin", "Kaja Gruntkowska", "Peter Richtárik"]
+    },
+    {
+      "name": "Communication Compression for Byzantine Robust Learning: New Efficient Algorithms and Improved Rates",
+      "publisher": "AISTATS 2024",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2310.09804",
+      "authors": ["Ahmad Rammal", "Kaja Gruntkowska", "Nikita Fedin", "Eduard Gorbunov", "Peter Richtárik"]
+    },
+    {
+      "name": "EF21-P and Friends: Improved Theoretical Communication Complexity for Distributed Optimization with Bidirectional Compression",
+      "publisher": "ICML 2023",
+      "releaseDate": "2023",
+      "url": "https://arxiv.org/abs/2209.15218",
+      "authors": ["Kaja Gruntkowska", "Alexander Tyurin", "Peter Richtárik"]
+    }
+  ],
+  "work": [
+    {
+      "name": "KAUST",
+      "location": "Thuwal, Saudi Arabia",
+      "position": "Teaching Assistant",
+      "url": "https://www.kaust.edu.sa/en/news/kaust-center-of-excellence-for-generative-ai",
+      "startDate": "2025-01",
+      "endDate": "2025-05",
+      "summary": "CS 331. Stochastic Gradient Descent Methods"
+    },
+    {
+      "name": "KAUST",
+      "location": "Remote",
+      "position": "Research Intern",
+      "url": "https://www.kaust.edu.sa/en/news/kaust-center-of-excellence-for-generative-ai",
+      "startDate": "2023-09",
+      "endDate": "2023-12",
+      "summary": "Research internship in the Optimization and Machine Learning Lab led by Prof. Peter Richtárik",
+      "highlights": ["Project on distributed optimization", "Paper accepted to NeurIPS 2024"]
+    },
+    {
+      "name": "KAUST",
+      "location": "Thuwal, Saudi Arabia",
+      "position": "Research Intern",
+      "url": "https://www.kaust.edu.sa/en/news/kaust-center-of-excellence-for-generative-ai",
+      "startDate": "2022-06",
+      "endDate": "2022-09",
+      "summary": "Research internship in the Optimization and Machine Learning Lab led by Prof. Peter Richtárik",
+      "highlights": ["Project on distributed optimization", "Paper accepted to ICML 2023"]
+    },
+    {
+      "name": "UNIQA Insurance Group",
+      "position": "Intern",
+      "startDate": "2020-06",
+      "endDate": "2020-08",
+      "location": "Lodz, Poland",
+      "summary": "Interned in the Business Support and Procurement Department",
+      "highlights": []
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "volunteer": []
+}
